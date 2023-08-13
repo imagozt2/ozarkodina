@@ -1,0 +1,127 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <OzarkodiNaimago>Ozarkodina</OzarkodiNaimago>
+      <OzarkodiNaimago_stt>Ozarkodina</OzarkodiNaimago_stt>
+      <OzarkodiNaimago_lower>El Ozarkodina</OzarkodiNaimago_lower>
+      <OzarkodiNaimago_ltt>
+         <color r="255" g="248" b="178">
+            <b>Ozarkodina</b>
+         </color>
+         <br/>
+         Click para adoptar un Myllokunmingia, uno de los primeros vertebrados.
+      </OzarkodiNaimago_ltt>
+      <!--gift names-->
+      <OzarkodiNaimago_Gift>Mochila de Myllokunmingia</OzarkodiNaimago_Gift>
+      <OzarkodiNaimago_Gift_stt>Mochila de Myllokunmingia</OzarkodiNaimago_Gift_stt>
+      <OzarkodiNaimago_Gift_lower>La Mochila de Myllokunmingia</OzarkodiNaimago_Gift_lower>
+      <OzarkodiNaimago_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Mochila de Myllokunmingia</b>
+         </color>
+         <br/>La gente compra este regalo cuando ve al Myllokunmingia.
+      </OzarkodiNaimago_Gift_ltt>
+</entityname>
+<zoopedia_ozarkodinaimago>
+ <entry>Myllokunmingia</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/OzarkodiNaimago/OzarkodiNaimago_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Extincto
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Costa<br/></color>
+     <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Mar del Tetis<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: <i>(Mixinimorfi)</i><br/>Orden: Myllokunmingiiformes <br/>Familia: Myllokunmingiidae <br/>Genero: <i>Myllokunmingia</i><br/>Especie: <i>fengjiaoa</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos del Myllokunmingia</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Es uno de los primeros vertebrados, juno con Haikouichthys y Zhongjianichthys.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Posiblemente es nuestro primer antepasado con huesos.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"> Nacio durante la explosion Cambria.</color> 
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para desbloquear el Myllokunmingia necesitas 1 estrella de fama en tu zoo. 
+   </color>
+   <p/>Myllokunmingia es un cordado del Cambrico Inferior, supuestamente un vertebrado,aunque existen ciertas dudas.Se trataria del vertebrado mas antiguo que se conoce. Sus restos fosiles se hallaron en los Esquistos de Maotianshan, cerca de Haikou, en la localidad de Kunming, de provincia de Yunnan (China), que tienen una antigüedad de 530 millones. Se asemejaba a los actuales mixinos, y media 28 mm de longitud y unos 6 mm de altura. Tanto su craneo como sus estructuras esqueleticas eran cartilaginosas, al igual que las lampreas. No existe ningun indicio de mineralizacion de los elementos del esqueleto (proceso denominado biomineralizacion). Este animal tiene la cabeza y el tronco diferenciados, con una aleta dorsal y otra ventral carentes de radios. La cabeza posee unas cinco o seis branquias. En el torax se encuentran 25 segmentos en forma de "V" apuntando hacia detras. Posee tambien una cuerda dorsal, una faringe, un tubo digestivo que, probablemente, llegaba hasta la punta de la cola. No se ha podido identificar con claridad la boca, y es muy posible que tuviera una cavidad pericardica. Solo se ha podido encontrar un especimen con la cola hallaba enterrada en el sedimento. Haikouichthys es otra criatura similar hallada en los mismos esquistos, donde tambien se han encontrado otros posibles hemicordados (uno de los cordados mas primitivos).
+   <p/>
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Contenido de <color r="255" g="231" b="135">Wikipedia</color>Imago
+  </cell>
+ </text>
+</zoopedia_ozarkodinaimago>
+</ZT2Strings>
